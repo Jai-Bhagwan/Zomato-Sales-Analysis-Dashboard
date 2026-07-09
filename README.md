@@ -1,4 +1,4 @@
-# <img src="Assets/zomato-logo.png" alt="Zomato Logo" width="40" align="center"> Zomato Sales Analysis Dashboard
+# <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Zomato_logo.png" alt="Zomato Logo" width="40" align="center"> Zomato Sales Analysis Dashboard
 
 An interactive **Microsoft Excel Dashboard** built to analyze Zomato sales data and provide meaningful business insights through dynamic visualizations, KPIs, Pivot Tables, Pivot Charts, and Slicers.
 
